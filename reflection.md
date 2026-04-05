@@ -6,6 +6,6 @@ The goal of this assignment was to run a real, structured job search targeting e
 
 ## Technical Decisions
 
-The biggest decision was how to split my time between SWE-focused and ML-focused roles. I ended up keeping both tracks open intentionally — my background spans web dev, systems work, and applied ML research, so narrowing too early felt like leaving options on the table. The tradeoff is a harder narrative to maintain, so I ended up with two resume versions and switched between them depending on the role type.
+The biggest decision was how to split my time between SWE-focused and ML-focused roles. I ended up keeping both tracks open intentionally, my background spans web dev, systems work, and applied ML research, so narrowing too early felt like leaving options on the table. The tradeoff is a harder narrative to maintain, so I ended up with two resume versions and switched between them depending on the role type.
 
 I also made a deliberate decision to target a mix of company sizes — large companies like Microsoft and Salesforce alongside smaller ones like Thehive.ai and FreshConsulting. The reasoning was that large companies offer structure and credibility early on, while smaller ones tend.
