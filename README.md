@@ -5,7 +5,7 @@
 For this assignment I ran a structured job search targeting entry-level software
 engineering and machine learning roles. Over the course of the assignment I
 researched companies, tailored application materials, and submitted 25+
-applications across a range of companies and role types — from large companies
+applications across a range of companies and role types from large companies
 like Microsoft, NVIDIA, and Salesforce to smaller ML-focused startups.
 
 ## Career Goals
